@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **Security Automation & IAM Solutions**
 - 🌱 I'm currently learning **DevSecOps, Access Management & Vulnerability Management**
 - 💬 Ask me about **Python, Flask, Security Automation, IAM Workflows**
-- 📫 How to reach me: **[your email]**
+- 📫 How to reach me: **ntannguyen2004@gmail.com**
 - ⚡ Fun fact: I build tools that make security teams' lives easier!
 
 ## 🛠️ Tech Stack
